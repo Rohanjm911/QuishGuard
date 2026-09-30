@@ -1,11 +1,15 @@
 <div align="center">
-  <img src="assets/logo_original.png" alt="QuishGuard Dragon Shield Logo" width="270" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/logo_modern.png" alt="QuishGuard Modern Cyber Matrix Logo" width="270" style="border-radius: 20px;" />
+  <img src="assets/logo_original.png" alt="QuishGuard Dragon Shield Logo" width="220" />
   <br/><br/>
   <h1>🛡️ QuishGuard Desktop v2.0 Enterprise</h1>
-  <p><strong>DON'T JUST SCAN — INSPECT BEFORE YOU CONNECT</strong></p>
-  <p><em>Enterprise-Grade, 100% Offline QR Code Quarantine & Anti-Quishing Telemetry Tool</em></p>
+  
+  <p align="center">
+    <a href="https://github.com/Rohanjm911/QuishGuard">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=660&lines=DON'T+JUST+SCAN+—+INSPECT+BEFORE+YOU+CONNECT;100%25+Offline+Air-Gapped+QR+Quarantine;Real-Time+Tactical+Camera+HUD+Scanner;Safe+Headless+HTTP+Redirect+Hop+Tracing;Tactical+16-Bit+PCM+Acoustic+Telemetry;Zero-Trust+Forensic+Incident+Dossiers" alt="QuishGuard Typing Telemetry" />
+    </a>
+  </p>
+
+  <p><em>Enterprise-Grade, 100% Offline QR Code Quarantine &amp; Anti-Quishing Telemetry Tool</em></p>
   
   <p>
     <img src="https://img.shields.io/badge/Security-Zero--Trust%20Quarantine-blue?style=for-the-badge&logo=shield" alt="Zero-Trust" />
@@ -22,6 +26,15 @@
 Malicious QR codes deployed in corporate phishing emails, social engineering drops, and physical spaces routinely circumvent secure email gateways (SEGs) and corporate perimeter firewalls. Blindly scanning them on mobile devices exposes corporate single-sign-on (SSO) credentials, session tokens, and endpoint devices to drive-by exploits.
 
 **QuishGuard Desktop** functions as an air-gapped, zero-trust quarantine workstation tool. Analysts and end users can inspect, deconstruct, and verify QR images via local file selection or a real-time tactical camera HUD before any browser or mobile endpoint interacts with the payload.
+
+---
+
+## ⚡ Live Tactical Quarantine Demonstration
+
+<div align="center">
+  <img src="assets/scanner_demo.gif" alt="QuishGuard Tactical Cyber HUD & Quarantine Live Demo" width="100%" />
+  <p><em>Real-Time Optical Matrix Locking, Sweeping Laser Scanline &amp; Instantaneous Heuristic Threat Evaluation</em></p>
+</div>
 
 ---
 
@@ -141,8 +154,8 @@ QuishGuard can be distributed as a single, zero-dependency standalone Windows ex
 | **Compilation Status** | ✅ **Pre-Compiled & Ready to Deploy** |
 | **Output Binary** | `QuishGuard.exe` |
 | **Binary Size** | **83.8 MB** (Self-contained single file) |
-| **Relative Location** | `dist/QuishGuard.exe` |
-| **Absolute Location** | `d:\projects and certificates\projects\cyber\QuishGuard\dist\QuishGuard.exe` |
+| **Executable Location** | `dist/QuishGuard.exe` |
+| **Launch Command** | `.\dist\QuishGuard.exe` |
 | **Documentation Guide** | [HOW_TO_RUN.md](HOW_TO_RUN.md) |
 
 ### How to Run the Compiled Binary
@@ -199,13 +212,14 @@ The deterministic heuristic engine calculates a unified threat score from 0 to 1
 
 ---
 
-## 🎨 Official Brand Emblems
+## 🎨 Official Brand Emblem
 
-| Tactical Enterprise Shield | Modern Cyber Matrix Edition |
-|:---:|:---:|
-| <img src="assets/logo_original.png" alt="QuishGuard Tactical Dragon Shield" width="240" /> | <img src="assets/logo_modern.png" alt="QuishGuard Modern Cyber Matrix Shield" width="240" style="border-radius: 16px;" /> |
-| **Official Enterprise Emblem** | **Next-Gen Cyber Matrix Edition** |
-| Battle-tested Zero-Trust quarantine defense mark | Holographic QR circuit telemetry edition |
+<div align="center">
+  <img src="assets/logo_original.png" alt="QuishGuard Tactical Dragon Shield Emblem" width="220" />
+  <br /><br />
+  <p><strong>Official Enterprise Dragon Shield</strong><br />
+  <em>Battle-tested Zero-Trust quarantine defense mark representing impenetrable offline QR code payload isolation.</em></p>
+</div>
 
 ---
 

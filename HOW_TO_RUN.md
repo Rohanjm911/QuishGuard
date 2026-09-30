@@ -15,14 +15,14 @@ A standalone Windows executable is pre-compiled and ready for deployment without
 | **Build Status** | ✅ **COMPILED & READY TO RUN** |
 | **Executable Name** | `QuishGuard.exe` |
 | **File Size** | **83.8 MB** (Self-contained single binary) |
-| **Absolute Path** | `d:\projects and certificates\projects\cyber\QuishGuard\dist\QuishGuard.exe` |
-| **Relative Path** | `.\dist\QuishGuard.exe` |
+| **Binary Location** | `.\dist\QuishGuard.exe` |
+| **Launch Command** | `.\dist\QuishGuard.exe` |
 | **Platform** | Windows 10 / 11 (64-bit) |
 
 #### Method A: Launch via Windows File Explorer
-1. Navigate to the distribution folder in File Explorer:
+1. Navigate to the `dist` folder inside the project directory in File Explorer:
    ```text
-   d:\projects and certificates\projects\cyber\QuishGuard\dist\
+   QuishGuard\dist\
    ```
 2. Double-click **`QuishGuard.exe`**. The application launches immediately with the Apple + Google inspired dark UI!
 
