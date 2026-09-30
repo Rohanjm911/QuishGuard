@@ -1,0 +1,9 @@
+customtkinter>=5.2.2
+pillow>=10.3.0
+pyzbar>=0.1.9
+opencv-python>=4.9.0.80
+numpy>=1.26.0
+requests>=2.32.0
+python-Levenshtein>=0.25.1
+tldextract>=5.1.2
+pyinstaller>=6.5.0
