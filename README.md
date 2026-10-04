@@ -38,6 +38,115 @@ Malicious QR codes deployed in corporate phishing emails, social engineering dro
 
 ---
 
+## 📸 Enterprise User Interface & Tactical Workstation Showcase
+
+QuishGuard Desktop pairs cybersecurity engineering with a fluid **Apple macOS Dark + Google Material You 3** design language. Below is a tour of the workstation's core analytical interfaces:
+
+### 1. 🛡️ Main Quarantine Dashboard (Critical Phishing Threat Quarantined)
+> Instantaneous optical matrix ingestion, Threat Arc Gauge telemetry (Score: 88/100, CRITICAL Red), redirect chain status, and granular cryptographic forensic dossier.
+
+<div align="center">
+  <img src="assets/screenshots/01_dashboard_critical_threat.png" alt="QuishGuard Zero-Trust Quarantine Dashboard - Critical Phishing Detection" width="100%" />
+</div>
+
+- **Dynamic Threat Arc Gauge**: Displays unified risk evaluation (`88 / 100 - CRITICAL`).
+- **Telemetry Metric Tiles**: Tracks redirect hops (`2 Hops`), transport security (`🔒 HTTPS TLS/SSL Encrypted`), and protocol posture.
+- **Optical & Ingestion Telemetry**: Ingestion channel, resolution, color space, and decoder engine.
+- **Cryptographic Chain of Custody**: Computes immediate SHA-256 hash digests of scanned files and raw payloads.
+- **Zero-Trust Incident Checklist**: Automated rule evaluation (Redirection Risk, Transport Protocol, Brand Typosquatting, Shannon Entropy, Quarantine Recommendation).
+
+---
+
+### 2. 🔬 Interactive Payload Sandbox & Wireshark-Style Hex Dump
+> Byte-level memory matrix inspection with 16-byte aligned hexadecimal offsets, ASCII representation, multi-layer de-obfuscation, and mobile execution sandboxing.
+
+<div align="center">
+  <img src="assets/screenshots/02_payload_sandbox_hex.png" alt="QuishGuard Payload Sandbox and Hex Dump Inspector" width="100%" />
+</div>
+
+- **Raw Byte Memory Matrix**: Complete hexadecimal memory dump (`00000000: 68 74 74 70... |https://|`) with 1-click clipboard export.
+- **Multi-Layer De-Obfuscation**: Automatic decoding of URL percent-encoding and recursive Base64 unpacking.
+- **Simulated Mobile OS Sandbox**: Evaluates Android/iOS intents, deep links, APK sideloading hazards, and telephony triggers.
+
+---
+
+### 3. 🌐 Headless Visual Redirect Chain & Hop Trajectory
+> Safe hop-by-hop HTTP trajectory tracing without invoking a rendering engine or browser sandbox.
+
+<div align="center">
+  <img src="assets/screenshots/03_visual_redirect_chain.png" alt="QuishGuard Safe Visual Redirect Chain and Hop Telemetry" width="100%" />
+</div>
+
+- **Hop Sequence Telemetry**: Visualizes origin QR payload (`Step 0`), intermediate hops (`301 Moved Permanently`, `302 Found`), and destination landing hosts.
+- **Per-Hop Telemetry**: Captures round-trip latency (ms), remote server IP addresses, web server headers (Cloudflare, Nginx, Apache), and SSL termination.
+
+---
+
+### 4. 📊 Categorical Attack Surface Risk Vector Breakdown
+> Multi-dimensional attack vector analysis displaying risk distribution across individual threat dimensions.
+
+<div align="center">
+  <img src="assets/screenshots/04_risk_vector_graph.png" alt="QuishGuard Attack Surface Risk Vector Breakdown" width="100%" />
+</div>
+
+- **Domain & TLD Abuse**: Flags high-risk, disposable, and abuse-heavy TLD extensions (`.xyz`, `.top`, `.buzz`).
+- **Brand Impersonation**: Quantifies Levenshtein distance against 30+ monitored enterprise brands (Microsoft, Google, Apple, Banking).
+- **Redirect Chain Evasion**: Penalizes obfuscation via URL shorteners and multi-hop forwarding networks.
+- **Host & Subdomain Structure**: Inspects nested subdomain depth and raw IP address destinations.
+
+---
+
+### 5. 📈 Continuous Threat Analytics & Session Trend Spline Chart
+> Real-time cubic spline trendline and session-wide cybersecurity performance indicators (KPIs).
+
+<div align="center">
+  <img src="assets/screenshots/05_threat_analytics.png" alt="QuishGuard Session Threat Analytics Spline Chart" width="100%" />
+</div>
+
+- **Executive KPI Cards**: Aggregates `Total Inspected`, `Clean Pass`, `Suspicious`, and `Critical Blocked` metrics.
+- **Dynamic Threat Spline Chart**: Tracks threat progression across sequential quarantine scans with animated severity nodes.
+
+---
+
+### 6. 🗄️ Searchable Forensic Scan History & Audit Trail
+> Local JSON-backed audit repository with live search, segmented risk filters, and SIEM data exporters.
+
+<div align="center">
+  <img src="assets/screenshots/06_scan_history_audit.png" alt="QuishGuard Searchable Scan History and Forensic Audit Trail" width="100%" />
+</div>
+
+- **Live Search Filtering**: Search instantly by target URL, UPI ID, domain, or SHA-256 fingerprint.
+- **Segmented Risk Filters**: Filter records by `All`, `🚨 Critical`, `⚠️ Suspicious`, or `🛡️ Clean`.
+- **1-Click Scan Reload**: Click `👁️ Load Scan` on any past event to restore the complete workspace, telemetry gauges, and forensic dossier.
+- **Data Export**: Export compliance logs to `.csv` or `.json` for SOC ingestion.
+
+---
+
+### 7. 💳 Dedicated UPI Payment Safety & NPCI Verification
+> Native inspection pipeline for Indian Unified Payments Interface (`upi://pay`) QR codes.
+
+<div align="center">
+  <img src="assets/screenshots/07_upi_payment_safety.png" alt="QuishGuard UPI Mobile Payment Safety Engine" width="100%" />
+</div>
+
+- **P2P Protocol Compliance**: Parses Virtual Payment Addresses (`pa`), payee names (`pn`), transaction amounts (`am`), and notes (`tn`).
+- **Banking Handle Verification**: Validates recognized Payment Service Provider (PSP) handles (`@okhdfcbank`, `@paytm`, `@ybl`).
+- **Deception Prevention**: Flags zero-amount dynamic charge lures and fraudulent merchant codes.
+
+---
+
+### 8. 🎧 Tactical 16-Bit PCM Cyber Audio Studio
+> Pure Python zero-dependency acoustic telemetry inspired by Apple & Google sound design.
+
+<div align="center">
+  <img src="assets/screenshots/08_tactical_sound_studio.png" alt="QuishGuard Tactical Audio Studio & Sound FX" width="70%" />
+</div>
+
+- **In-Memory Synthesized WAV Audio**: 7 tactical sound profiles (Clean QR Chime, Suspicious Caution, Critical Quarantine Alarm, Biometric Matrix Lock, Shutter Snap, AirDrop Export Chime, Tactile Glass Tap).
+- **Interactive Audition Panel**: Real-time preview testing and global header mute toggle (`🔊 Audio: ON / 🔇 Audio: OFF`).
+
+---
+
 ## ✨ Key Feature Highlights
 
 ### 1. 🔍 Multi-Engine QR Decoding & Optical Diagnostics
@@ -107,6 +216,20 @@ Malicious QR codes deployed in corporate phishing emails, social engineering dro
 
 ```text
 QuishGuard/
+├── assets/                     # Graphical brand assets & telemetry imagery
+│   ├── icon.ico                # Multi-resolution application icon
+│   ├── icon.png                # High-resolution application mark
+│   ├── logo_original.png       # Official dragon shield emblem
+│   ├── scanner_demo.gif        # Live camera viewfinder animated demonstration
+│   └── screenshots/            # High-resolution UI showcase captures
+│       ├── 01_dashboard_critical_threat.png
+│       ├── 02_payload_sandbox_hex.png
+│       ├── 03_visual_redirect_chain.png
+│       ├── 04_risk_vector_graph.png
+│       ├── 05_threat_analytics.png
+│       ├── 06_scan_history_audit.png
+│       ├── 07_upi_payment_safety.png
+│       └── 08_tactical_sound_studio.png
 ├── requirements.txt            # Pinned Python package dependencies
 ├── build_exe.bat               # Windows PyInstaller automated one-click build script
 ├── README.md                   # Enterprise technical manual & architecture reference
@@ -199,16 +322,16 @@ The deterministic heuristic engine calculates a unified threat score from 0 to 1
 
 ## 📋 Comprehensive UI Tabs Reference
 
-| Tab Name | Description | Key User Actions |
-| :--- | :--- | :--- |
-| **🔍 Detailed QR Analysis** | Optical forensics, SHA-256 hash, entropy, Zero-Trust checklist | `📋 Copy Dossier`, `📄 Export HTML Report`, `🌐 Open Target Safely` |
-| **🔬 Payload Sandbox** | Memory-offset hex dump, URL & Base64 de-obfuscation, Mobile Intent audit | `📋 Copy Hex Dump` |
-| **Visual Redirect Chain** | Step-by-step interactive hop trajectory graph with latency and HTTP status | Visual inspection of hops |
-| **📊 Risk Vector Graph** | Categorical attack surface risk distribution (TLD, Brand, Auth, Hops, Subdomains) | Visual telemetry |
-| **📈 Threat Analytics** | Continuous session threat trend spline area chart with live session KPIs | Visual telemetry |
-| **🗄️ Scan History** | Searchable audit table with live search input and risk category filter buttons | `👁️ Load Scan`, `📋 Copy Payload`, `📥 Export CSV`, `📥 Export JSON`, `🗑️ Clear History` |
-| **Heuristic Flags** | Breakdown of all triggered heuristic rules and risk weights | `📋 Copy Flags` |
-| **Live Security Log** | Real-time internal event stream of all scanner actions | `📋 Copy Log`, `🗑️ Clear Log` |
+| Tab Name | Description | Key User Actions | Visual Interface |
+| :--- | :--- | :--- | :--- |
+| **🔍 Detailed QR Analysis** | Optical forensics, SHA-256 hash, entropy, Zero-Trust checklist | `📋 Copy Dossier`, `📄 Export HTML Report`, `🌐 Open Target Safely` | [View Screenshot](assets/screenshots/01_dashboard_critical_threat.png) |
+| **🔬 Payload Sandbox** | Memory-offset hex dump, URL & Base64 de-obfuscation, Mobile Intent audit | `📋 Copy Hex Dump` | [View Screenshot](assets/screenshots/02_payload_sandbox_hex.png) |
+| **Visual Redirect Chain** | Step-by-step interactive hop trajectory graph with latency and HTTP status | Visual inspection of hops | [View Screenshot](assets/screenshots/03_visual_redirect_chain.png) |
+| **📊 Risk Vector Graph** | Categorical attack surface risk distribution (TLD, Brand, Auth, Hops, Subdomains) | Visual telemetry | [View Screenshot](assets/screenshots/04_risk_vector_graph.png) |
+| **📈 Threat Analytics** | Continuous session threat trend spline area chart with live session KPIs | Visual telemetry | [View Screenshot](assets/screenshots/05_threat_analytics.png) |
+| **🗄️ Scan History** | Searchable audit table with live search input and risk category filter buttons | `👁️ Load Scan`, `📋 Copy Payload`, `📥 Export CSV`, `📥 Export JSON`, `🗑️ Clear History` | [View Screenshot](assets/screenshots/06_scan_history_audit.png) |
+| **Heuristic Flags** | Breakdown of all triggered heuristic rules and risk weights | `📋 Copy Flags` | [View Screenshot](assets/screenshots/01_dashboard_critical_threat.png) |
+| **Live Security Log** | Real-time internal event stream of all scanner actions | `📋 Copy Log`, `🗑️ Clear Log` | Terminal stream |
 
 ---
 
